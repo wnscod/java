@@ -53,7 +53,7 @@ public class SortTest {
 
 		}
 		
-		System.out.println();
+		//System.out.println();
 	}
 	
 }
